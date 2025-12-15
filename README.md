@@ -22,3 +22,4 @@ IT & AI Prompt Engineering · Systems Analysis · Applied Research
 
 ## Repository Structure
 
+> Detailed implementations and research artifacts are maintained in private repositories and can be shared for evaluation purposes.
