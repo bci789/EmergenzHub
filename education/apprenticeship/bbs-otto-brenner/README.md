@@ -7,6 +7,13 @@ Context
 This folder documents structural and didactic failures observed and formally raised during attendance at the BBS-ME Otto-Brenner-Schule. The documentation presented here is fact-bound, externally verified, and compiled in accordance with the same epistemological standards applied throughout this repository.
 The exit grade reflects a disrupted learning environment — not technical capability. The core issues are not personal grievances but institutionally documented patterns, independently confirmed by external academic sources.
 
+## Comparative Note: DKB vs. BBS-ME
+
+Both institutions offered the same program: IT Assistant (Informationstechnischer Assistent) at identical qualification level.
+The same person attended both. The academic content, curriculum structure, and entry requirements were equivalent.
+The grade outcomes diverged significantly between the two institutions.
+This divergence cannot be explained by individual capability. It is consistent with the documented environmental factors at each institution — and constitutes structural evidence that the transcript reflects conditions, not competence.
+
 Documented Issues
 1. Verified False Attribution — Leibniz Quote
 A quote attributed to Gottfried Wilhelm Leibniz was repeatedly used in classroom instruction:
