@@ -2,4 +2,4 @@
 
 AI-gestütztes Dienstleistungsangebot für Verwaltungsaufgaben.
 
-Status: Projekt / Vorbereitung
+Status: Projekt / eingeforen
